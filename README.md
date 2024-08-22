@@ -1,5 +1,6 @@
 # chrome 插件（360可用） CopyExtend
 防止网页禁止复制
+
 ![image](https://github.com/user-attachments/assets/3ce982bd-e120-4c89-9561-d53780e3e92b)
 
 ## 使用
